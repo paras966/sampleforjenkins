@@ -1,0 +1,4 @@
+echo "hello Everybody"
+date
+cal
+ifconfig
